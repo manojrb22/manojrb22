@@ -33,5 +33,5 @@ MongoDB | MySQL
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: [(Add link)](https://www.linkedin.com/in/manoj-badiger-3ba040251/)
+- LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/manoj-badiger-3ba040251/)
 - Email: manojbadiger22@gmail.com
