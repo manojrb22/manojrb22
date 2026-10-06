@@ -35,65 +35,55 @@ Currently, I'm strengthening my expertise in **Java, Spring Boot, backend engine
 🧠 Data Structures & Algorithms
 ☁️ DevOps & Cloud Fundamentals
 🤖 AI-Assisted Application Development
-
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
+### 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend Development
+### 🎨 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
-### Databases & Tools
+### 🗄️ Databases
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### 🔧 Tools & Platforms
 
-## 🧩 Engineering Focus
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-| Area | Focus |
-|------|-------|
-| **Backend Engineering** | Java, Spring Boot, REST APIs, authentication, authorization |
-| **Frontend Development** | React.js, Angular, responsive UI, component-based development |
-| **Database Engineering** | MySQL, MongoDB, SQL, database design |
-| **Computer Science** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
-| **Software Engineering** | Git, API testing, debugging, clean code, maintainability |
-| **Cloud & DevOps** | Cloud fundamentals, CI/CD concepts, deployment workflows |
 
----
+## 🧠 Engineering Focus
+
+- **Backend Engineering** — Building REST APIs, backend services, authentication flows, and database-driven applications.
+- **Full-Stack Development** — Developing end-to-end applications with modern frontend and backend technologies.
+- **Software Architecture** — Learning to design modular, maintainable, and scalable application components.
+- **Problem Solving** — Strengthening Data Structures & Algorithms and applying them to real-world problems.
+- **Engineering Practices** — Git-based development, API testing, debugging, clean code, and maintainability.
+- **Cloud & DevOps** — Building practical knowledge of deployment, CI/CD, containers, and cloud infrastructure.
+
 
 ## 🚀 Featured Projects
 
@@ -111,23 +101,6 @@ A full-stack application focused on delivering personalized wellness experiences
 - Database-driven workflows
 - Responsive user interface
 - Practical real-world application design
-
----
-
-### 🔬 PathoScan
-
-**Medical diagnosis support web application**
-
-A web application developed using **Angular and Node.js**, designed around structured workflows and backend API integration.
-
-**Key Highlights**
-
-- Angular-based frontend
-- Node.js backend
-- REST API integration
-- Role-based functionality
-- Real-time form validation
-- Client-server architecture
 
 ---
 
