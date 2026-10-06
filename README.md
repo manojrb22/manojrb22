@@ -6,17 +6,15 @@ Software Developer • Full-Stack Engineer • Backend Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-badiger-3ba040251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manojbadiger22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/manojrb22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -35,7 +33,7 @@ Currently, I'm strengthening my expertise in **Java, Spring Boot, backend engine
 🧠 Data Structures & Algorithms
 ☁️ DevOps & Cloud Fundamentals
 🤖 AI-Assisted Application Development
----
+```
 
 ## 🛠️ Technical Skills
 
@@ -74,16 +72,14 @@ Currently, I'm strengthening my expertise in **Java, Spring Boot, backend engine
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ## 🧠 Engineering Focus
 
 - **Backend Engineering** — Building REST APIs, backend services, authentication flows, and database-driven applications.
 - **Full-Stack Development** — Developing end-to-end applications with modern frontend and backend technologies.
-- **Software Architecture** — Learning to design modular, maintainable, and scalable application components.
+- **Software Architecture** — Designing modular, maintainable, and scalable application components.
 - **Problem Solving** — Strengthening Data Structures & Algorithms and applying them to real-world problems.
 - **Engineering Practices** — Git-based development, API testing, debugging, clean code, and maintainability.
 - **Cloud & DevOps** — Building practical knowledge of deployment, CI/CD, containers, and cloud infrastructure.
-
 
 ## 🚀 Featured Projects
 
@@ -102,8 +98,6 @@ A full-stack application focused on delivering personalized wellness experiences
 - Responsive user interface
 - Practical real-world application design
 
----
-
 ### 📋 Task Board
 
 **React-based task management application**
@@ -119,8 +113,6 @@ A productivity-focused web application designed to simplify task organization an
 - Reusable UI components
 - Clean and maintainable code structure
 
----
-
 ## 🔥 Current Focus
 
 I'm currently focused on becoming a stronger **backend-oriented full-stack developer**.
@@ -134,9 +126,7 @@ I'm currently focused on becoming a stronger **backend-oriented full-stack devel
 - 🏗️ Learning **System Design and scalable backend architecture**
 - 🤖 Using **AI-assisted development tools** to improve development productivity
 
----
-
-## 🧠 Engineering Principles
+## 💡 Engineering Principles
 
 > **Build → Learn → Improve**
 
@@ -150,8 +140,6 @@ I focus on building software that is:
 - **Scalable**
 - **Secure**
 - **Easy to evolve**
-
----
 
 ## 📊 GitHub Statistics
 
@@ -172,15 +160,12 @@ I focus on building software that is:
   />
 </p>
 
----
+## 🎯 2026 Focus
 
-## 🎯 2026 Goals
-
-```text
-01  Strengthen Java + Spring Boot
-02  Build production-oriented full-stack applications
-03  Master core DSA patterns
-04  Improve backend architecture & system design
-05  Gain practical Cloud & DevOps experience
-06  Contribute to meaningful open-source projects
-07  Grow into a strong software engineering professional
+1. **Strengthen Java & Spring Boot**
+2. **Build production-oriented full-stack applications**
+3. **Master core DSA patterns**
+4. **Improve backend architecture & system design**
+5. **Gain practical Cloud & DevOps experience**
+6. **Contribute to meaningful open-source projects**
+7. **Grow as a strong software engineering professional**
